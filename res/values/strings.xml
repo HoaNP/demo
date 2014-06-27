@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To Do List ver2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="work_hint">Enter the work here</string>
+    <string name="hour_edit">Hour</string>
+    <string name="minute_edit">Minute</string>
+    <string name="button_content">Add work</string>
+
+</resources>
